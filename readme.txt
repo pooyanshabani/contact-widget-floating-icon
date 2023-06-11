@@ -15,17 +15,7 @@ Widget plugin supports floating icons on the page. Display contact information i
 Widget plugin supports floating icons on the page.
 Display contact information icon such as phone button and location link, social media links, support link, desired link, etc. unlimitedly and separate settings for each, including changing the color and text and uploading the desired icon and changing the target of the link to the new page.
 
-Ordered list:
 
-1. Some feature
-1. Another feature
-1. Something else about the plugin
-
-Unordered list:
-
-* something
-* something else
-* third thing
 
 Link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
 
