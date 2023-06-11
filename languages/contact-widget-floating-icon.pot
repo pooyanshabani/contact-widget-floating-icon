@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Contact Widget Floating Icon\n"
+"POT-Creation-Date: 2023-06-10 18:31+0430\n"
+"PO-Revision-Date: 2023-06-10 18:30+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: contact-widget-floating-icon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: libs/cwf_menu_page_form.php:40
+msgid "Element Name"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:48
+msgid "Element Tooltip"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:57
+msgid "Element Icon"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:116
+msgid "40 x 40 px and transparent recommended"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:122
+msgid "Element Color"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:131
+msgid "Element Order"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:135
+msgid "Lower numbers are placed in higher positions"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:142
+msgid "Element Link"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:151
+msgid "Element Target Link"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:154
+msgid "Open in new window"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:164
+msgid "Edit Element"
+msgstr ""
+
+#: libs/cwf_menu_page_form.php:164 libs/setting.php:47 libs/setting.php:48
+msgid "Add New Element"
+msgstr ""
+
+#: libs/cwf_menu_page_list_setting.php:9
+msgid "Support"
+msgstr ""
+
+#: libs/cwf_menu_page_list_setting.php:11
+msgid "Close"
+msgstr ""
+
+#: libs/cwf_menu_page_list_setting.php:50
+msgid "Widget Seting"
+msgstr ""
+
+#: libs/cwf_menu_page_list_setting.php:62
+msgid "Main Icon Setting"
+msgstr ""
+
+#: libs/cwf_menu_page_list_setting.php:68
+msgid "Select or upload an icon for main widget"
+msgstr ""
+
+#: libs/setting.php:35 libs/setting.php:36
+msgid "Contact Widget Setting"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Contact Widget Floating Icon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://pooyan-shabani.ir/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Float Widget Contact Icons plugin. Display contact icons to users."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pooyan Shabani"
+msgstr ""

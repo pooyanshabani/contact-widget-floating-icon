@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Widget Floating Icon\n"
+"POT-Creation-Date: 2023-06-11 03:19+0430\n"
+"PO-Revision-Date: 2023-06-11 13:27+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: contact-widget-floating-icon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: libs/cwf_menu_page_form.php:40
+msgid "Element Name"
+msgstr "نام المان"
+
+#: libs/cwf_menu_page_form.php:48
+msgid "Element text hover (Tooltip)"
+msgstr "متن نوشته هاور (Tooltip)"
+
+#: libs/cwf_menu_page_form.php:57
+msgid "Element Icon"
+msgstr "آیکن المان"
+
+#: libs/cwf_menu_page_form.php:116
+msgid "40 x 40 px and transparent recommended"
+msgstr "بهتر است از تصویر بدون پس زمینه و با ابعاد 40 در 40 استفاده کنید"
+
+#: libs/cwf_menu_page_form.php:122
+msgid "Element Color"
+msgstr "رنگ المان"
+
+#: libs/cwf_menu_page_form.php:131
+msgid "Element Order"
+msgstr "ترتیب نمایش المان"
+
+#: libs/cwf_menu_page_form.php:135
+msgid "Lower numbers are placed in higher positions"
+msgstr "اعداد کمتر در جایگاه بالاتر قرار می گیرند"
+
+#: libs/cwf_menu_page_form.php:142
+msgid "Element Link"
+msgstr "لینک المان"
+
+#: libs/cwf_menu_page_form.php:151
+msgid "Element Target Link"
+msgstr "پنجره هدف لینک"
+
+#: libs/cwf_menu_page_form.php:154
+msgid "Open in new window"
+msgstr "لینک در یک برگه یا پنجره جدید باز شود"
+
+#: libs/cwf_menu_page_form.php:164
+msgid "Edit Element"
+msgstr "ویرایش المان"
+
+#: libs/cwf_menu_page_form.php:164 libs/setting.php:47 libs/setting.php:48
+msgid "Add New Element"
+msgstr "افزودن المان"
+
+#: libs/cwf_menu_page_list.php:9
+msgid "Element(s)"
+msgstr "المان(ها)"
+
+#: libs/cwf_menu_page_list.php:12
+msgid "Add new element"
+msgstr "افزودن المان"
+
+#: libs/cwf_menu_page_list.php:15
+msgid "Name"
+msgstr "نام"
+
+#: libs/cwf_menu_page_list.php:16
+msgid "Icon"
+msgstr "آیکون"
+
+#: libs/cwf_menu_page_list.php:18 libs/cwf_menu_page_list_setting.php:146
+msgid "Tooltip"
+msgstr "متن نوشته هاور (Tooltip)"
+
+#: libs/cwf_menu_page_list.php:20
+msgid "Color"
+msgstr "رنگ"
+
+#: libs/cwf_menu_page_list.php:21
+msgid "Order"
+msgstr "سفارش"
+
+#: libs/cwf_menu_page_list.php:22
+msgid "Target"
+msgstr "هدف"
+
+#: libs/cwf_menu_page_list.php:23
+msgid "Link"
+msgstr "لینک"
+
+#: libs/cwf_menu_page_list.php:24
+msgid "Operations"
+msgstr "عملیات"
+
+#: libs/cwf_menu_page_list.php:61
+msgid "No Result Found"
+msgstr "نتیجه‌ای یافت نشد"
+
+#: libs/cwf_menu_page_list_setting.php:9
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: libs/cwf_menu_page_list_setting.php:11
+msgid "Close"
+msgstr "بستن"
+
+#: libs/cwf_menu_page_list_setting.php:50
+msgid "Widget Seting"
+msgstr "تنظیمات ویجت"
+
+#: libs/cwf_menu_page_list_setting.php:62
+msgid "Main Icon Setting"
+msgstr "تنظیمات آیکون اصلی"
+
+#: libs/cwf_menu_page_list_setting.php:68
+msgid "Select or upload an icon for main widget"
+msgstr "از لیست زیر یک آیکون انتخاب کنید و یا آیکون دلخواه خود را آپلود کنید"
+
+#: libs/cwf_menu_page_list_setting.php:81
+#: libs/cwf_menu_page_list_setting.php:119
+msgid "30 x 30 px and transparent recommended"
+msgstr "بهتر است از تصویر بدون پس زمینه و با ابعاد 30 در 30 استفاده کنید"
+
+#: libs/cwf_menu_page_list_setting.php:84
+msgid "main widget background color"
+msgstr "رنگ پس زمینه ابزارک (آیکون اصلی)"
+
+#: libs/cwf_menu_page_list_setting.php:88
+msgid "main widget text hover (tooltip)"
+msgstr "متن نوشته هاور (Tooltip) ویجت (ابزارک) اصلی"
+
+#: libs/cwf_menu_page_list_setting.php:92
+#: libs/cwf_menu_page_list_setting.php:130
+#: libs/cwf_menu_page_list_setting.php:162
+msgid "Disable Tooltip"
+msgstr "غیرفعال کردن نوشته هاور"
+
+#: libs/cwf_menu_page_list_setting.php:104
+msgid "Close Icon Setting"
+msgstr "تنظیمات آیکون بستن"
+
+#: libs/cwf_menu_page_list_setting.php:110
+msgid "Select or upload icon for close widget"
+msgstr "از لیست زیر یک آیکون انتخاب کنید و یا آیکون دلخواه خود را آپلود کنید"
+
+#: libs/cwf_menu_page_list_setting.php:118
+msgid "Add Icon"
+msgstr "افزودن آیکن"
+
+#: libs/cwf_menu_page_list_setting.php:122
+msgid "close widget background color"
+msgstr "رنگ پس زمینه ابزارک (آیکن بستن)"
+
+#: libs/cwf_menu_page_list_setting.php:126
+msgid "close widget text hover (tooltip)"
+msgstr "متن نوشته هاور (Tooltip) ویجت (ابزارک) بستن"
+
+#: libs/cwf_menu_page_list_setting.php:143
+msgid "Tooltip Setting"
+msgstr "تنظیمات متن هاور (tooltip)"
+
+#: libs/cwf_menu_page_list_setting.php:149
+msgid "Tooltip background color"
+msgstr "رنگ پس زمینه هاور (tooltip)"
+
+#: libs/cwf_menu_page_list_setting.php:153
+msgid "Tooltip text color"
+msgstr "رنگ متن نوشته هاور (Tooltip)"
+
+#: libs/cwf_menu_page_list_setting.php:157
+msgid "Disable Tooltip Border"
+msgstr "غیرفعال کردن Border پس زمینه نوشته هاور"
+
+#: libs/cwf_menu_page_list_setting.php:158
+msgid "Tooltip border color"
+msgstr "رنگ border متن هاور (tooltip)"
+
+#: libs/cwf_menu_page_list_setting.php:175
+msgid "View Setting"
+msgstr "تنظیمات نمایشی"
+
+#: libs/cwf_menu_page_list_setting.php:179
+msgid "Move to the right (default it is left side)"
+msgstr "انتقال به سمت راست (حالت پیش فرض سمت چپ است)"
+
+#: libs/cwf_menu_page_list_setting.php:181
+msgid "Disable on all of site (show only home page)"
+msgstr ""
+"نمایش ویجت (ابزارک) فقط در صفحه اصلی (به طور پیش فرض در همه صفحات سایت نمایش "
+"داده می شود)"
+
+#: libs/cwf_menu_page_list_setting.php:183
+msgid "Disable on mobile (show only desktop view)"
+msgstr ""
+"عدم نمایش ویجت (ابزارک)در صفحه نمایش موبایل (فقط در صفحه نمایش دسکتاپ نمایش "
+"بده)"
+
+#: libs/cwf_menu_page_list_setting.php:201
+msgid "Save setting"
+msgstr "ذخیره تغییرات"
+
+#: libs/setting.php:35 libs/setting.php:36
+msgid "Contact Widget Setting"
+msgstr "تنظیمات ویجت (اطلاعات تماس)"
+
+#. Plugin Name of the plugin/theme
+msgid "Contact Widget Floating Icon"
+msgstr "افزونه ویجت آیکون (اطلاعات تماس)"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/contact-widget-floating-icon/"
+msgstr "https://wordpress.org/plugins/contact-widget-floating-icon/"
+
+#. Description of the plugin/theme
+msgid "Float Widget Contact Icons plugin. Display contact icons to users."
+msgstr ""
+"افزونه ویجت (ابزارک) آیکون پشتیبانی شناور در صفحه. نمایش آیکون اطلاعات تماس "
+"(پشتیبانی) به کاربران."
+
+#. Author of the plugin/theme
+msgid "Pooyan Shabani"
+msgstr "پویان شعبانی"
+
+#. Author URI of the plugin/theme
+msgid "https://pooyan-shabani.ir/"
+msgstr "https://pooyan-shabani.ir/"
+
+#~ msgid "Add new widget"
+#~ msgstr "افزودن المان"
