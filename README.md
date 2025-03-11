@@ -1,5 +1,6 @@
 #Contact Widget Floating Icon
 
+
 Contributors: pooyanshabani
 Tags: Float-icon,chat,support,social-media,custom-links
 Donate link: https://pooyan-shabani.ir
@@ -10,7 +11,7 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Widget plugin supports floating icons on the page. Display contact information icon (support) to users.
+#Widget plugin supports floating icons on the page. Display contact information icon (support) to users.
 
 == Description ==
 Widget plugin supports floating icons on the page.
